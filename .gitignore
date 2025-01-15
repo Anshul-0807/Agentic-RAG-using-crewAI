@@ -1,3 +1,6 @@
 .env
 __pycache__/
 myenv
+requirements.txt
+agentic_rag.ipynb
+.env.example
