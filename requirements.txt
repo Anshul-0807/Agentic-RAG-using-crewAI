@@ -1,0 +1,6 @@
+streamlit
+crewai
+pypdfium2
+ollama
+crewai-tools
+markitdown
