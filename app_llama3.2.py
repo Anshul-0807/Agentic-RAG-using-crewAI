@@ -9,8 +9,6 @@ from crewai import Agent, Crew, Process, Task, LLM
 from src.agentic_rag.tools.custom_tool import FireCrawlWebSearchTool
 from src.agentic_rag.tools.custom_tool import DocumentSearchTool
 
-GROQ_API_KEY = "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"
-FIRECRAWL_API_KEY="fc-fcf4e5a578494467bfa4c72cab0746e6"
 
 @st.cache_resource
 def load_llm():
